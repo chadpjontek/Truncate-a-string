@@ -9,5 +9,5 @@ function truncateString(str, num) {
   } 
   return str;
 }
-//example
+//Example
 truncateString("A-tisket a-tasket A green and yellow basket", 11);
